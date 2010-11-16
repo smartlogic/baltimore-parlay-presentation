@@ -30,6 +30,6 @@
 * Presentation: http://github.com/smartlogic/baltimore-parlay-presentation.git
 * Demo: http://github.com/smartlogic/baltimore-parlay.git
 
-!SLIDE
+!SLIDE center
 # John Trupiano and Yair Flicker
 ![sls_logo.png](sls_logo.png)
