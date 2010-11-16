@@ -18,3 +18,18 @@
 !SLIDE
 # One HTML / Multiple CSS #
 
+!SLIDE bullets
+# Demo #
+## http://baltimore-parlay.heroku.com
+* Fluid Layouts
+* Semantic HTML
+* CSS Media Types
+
+!SLIDE bullets
+# Source Code #
+* Presentation: http://github.com/smartlogic/baltimore-parlay-presentation.git
+* Demo: http://github.com/smartlogic/baltimore-parlay.git
+
+!SLIDE
+# John Trupiano and Yair Flicker
+![sls_logo.png](sls_logo.png)
